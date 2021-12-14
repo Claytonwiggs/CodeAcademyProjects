@@ -65,14 +65,25 @@ body {
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
-  color: greenyellow;
-  font-family: "Press Start 2P";
 }
 
-.twoP {
+#twoP {
   font-family: "Press Start 2P", cursive;
+  color: greenyellow;
 }
 
-.roboto {
+#roboto {
   font-family: "Roboto Condensed", sans-serif;
+  color: greenyellow;
+}
+
+/* Other Samples */
+
+.stylesample {
+  border: 3px solid greenyellow;
+  display: inline-block;
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
 }
